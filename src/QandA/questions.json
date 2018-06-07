@@ -1,0 +1,19 @@
+{
+  "arrOfQuestions":[
+    {"questionId":0 ,"question":"Who invented programming ?","options":["me","no one","took years of work","NOTA"]},
+    {"questionId":1 ,"question":"Right atrium of mammalian heart recieves blood from","options":["Sinus venosus","Pulmonary veins","Precavals","Pre and postcavals"]},
+    {"questionId":2 ,"question":"Which of the following numbers is farthest from the number 1 on the number line?","options":["-10","-5","0","5"]},
+    {"questionId":3 ,"question":"Inside which HTML element do we put the JavaScript?","options":["<javascript>","<js>"," <script>","<scripting>"]},
+    {"questionId":4 ,"question":"What is the correct syntax for referring to an external script called \"xxx.js\"?","options":["<script name=\"xxx.js\">"," <script href=\"xxx.js\">","<script src=\"xxx.js\">","<script href=\"./xxx.js\">"]},
+    {"questionId":5 ,"question":"How do you write \"Hello World\" in an alert box?","options":["msg('Hello World');","msgBox('Hello World');","alert('Hello World');","alertBox('Hello World');"]},
+    {"questionId":6 ,"question":"How do you create a function in JavaScript?","options":["function:myFunction()","function = myFunction()","function myFunction()","Function myFunction()"]},
+    {"questionId":7 ,"question":"How do you call a function named \"myFunction\"?","options":["call myFunction()","myFunction()","call function myFunction()","myFunction"]},
+    {"questionId":8 ,"question":"How to write an IF statement in JavaScript?","options":["option1","option2","option2","option4"]},
+    {"questionId":9 ,"question":"What is the question ?","options":["if i = 5 then","if i = 5","if (i == 5)","if i == 5 then"]},
+    {"questionId":10 ,"question":" How to write an IF statement for executing some code if ' i'  is NOT equal to 5?","options":["if (i <> 5)","if i =! 5 then","if (i != 5)","if i <> 5"]},
+    {"questionId":11 ,"question":"How does a WHILE loop start?","options":["while (i <= 10)","while i = 1 to 10","while (i <= 10; i++)","WHILE i"]},
+    {"questionId":12 ,"question":"How does a FOR loop start?","options":["for (i <= 5; i++)","for (i = 0; i <= 5)","for i = 1 to 5","for (i = 0; i <= 5; i++)"]},
+    {"questionId":13 ,"question":"How do you round the number 7.25, to the nearest integer?","options":["rnd(7.25)","Math.round(7.25)","round(7.25)","Math.rnd(7.25)"]},
+    {"questionId":14 ,"question":"How do you find the number with the highest value of x and y?","options":["Math.ceil(x, y)","top(x, y)","ceil(x, y)","Math.max(x, y)"]}
+  ]
+}
